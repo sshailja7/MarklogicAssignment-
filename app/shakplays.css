@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	color: #555555;
+}
+
+img {
+	padding-bottom: .8em;
+}
+
+input {
+	font-family: "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: #44499c;
+	font-weight: bold;	
+	text-decoration: none;
+}
+
+a:visited {
+	color: #44499c;
+}
+
+a:hover {
+	color: #22277a;
+}
+
+.article-heading {
+	font-weight: bold;
+	font-size: 1.1em;
+	color:#44499c;
+}
+
+.result-item {
+	padding-top: 1.1em;
+}
+
+.highlight {
+	background-color: #D2F196;
+}
+
+.dark-gray {
+	color: #333333;
+}
+
+h3 {
+	margin-bottom: 0;
+}
+
+.article-subtitle {
+	color: grey;
+	font-size: .9em;
+	font-style: italic;
+}
+
+.article-scene {
+	font-weight: 500;
+}
+
+.article-stagedir {
+	padding-left: 2em;
+}
+
+.btn {
+	float: right;
+	margin-top: .5em;
+}
+
+form {
+	width: 50%;
+}
